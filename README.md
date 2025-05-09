@@ -1,5 +1,4 @@
 🎮 Guesser Game and Mobile Updates
-Description:
 A two-part Python project:
 
 Guesser Game – A command-line multiplayer game where one player (Chooser) secretly selects a number and others (Guessers) try to guess it within limited rounds. Features hidden number entry using getpass, input validation, and automatic winner detection.
